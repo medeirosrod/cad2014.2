@@ -1,0 +1,21 @@
+/*!
+qualquer coisa procurar @rdmuniz :);
+ */
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.fixed {
+	position: fixed;
+	top: 0;
+}
+
+section {
+	margin-top: 50px;
+	padding-bottom: 30px;
+}
+#aulas {margin-top: 0;}
+.nav i {vertical-align: middle;}
+.alert ul li {margin: 8px 0;}
+.alert i {vertical-align: bottom;}
